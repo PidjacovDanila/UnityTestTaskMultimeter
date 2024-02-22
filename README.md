@@ -1,2 +1,2 @@
 # UnityTestTaskMultimeter
-for "Диджитех"
+for "DIGITECH"
